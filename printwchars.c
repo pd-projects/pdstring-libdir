@@ -33,7 +33,7 @@
 #endif
 
 #include "mooPdUtils.h"
-#include "pdstringUtils.h"
+#include "pdstring.h"
 
 /*=====================================================================
  * Constants & Globals

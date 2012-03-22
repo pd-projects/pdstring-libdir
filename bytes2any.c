@@ -32,7 +32,7 @@
 #endif
 
 #include "mooPdUtils.h"
-#include "pdstringUtils.h"
+#include "pdstring.h"
 
 /* black magic for Microsoft's compiler */
 #ifdef _MSC_VER

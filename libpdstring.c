@@ -31,7 +31,7 @@
 #include <m_pd.h>
 #include <stdlib.h>
 #include "mooPdUtils.h"
-#include "pdstringUtils.h"
+#include "pdstring.h"
 
 /*=====================================================================
  * Debugging
