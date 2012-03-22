@@ -35,7 +35,7 @@ UNITTESTS =
 #
 #------------------------------------------------------------------------------#
 
-ALL_CFLAGS = -I"$(PD_INCLUDE)"
+ALL_CFLAGS = -I"$(PD_INCLUDE)" -DHAVE_CONFIG_H
 ALL_LDFLAGS =  
 SHARED_LDFLAGS =
 ALL_LIBS = 
